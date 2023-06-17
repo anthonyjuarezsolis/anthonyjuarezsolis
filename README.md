@@ -12,7 +12,4 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anthonyjuarezsolis&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
